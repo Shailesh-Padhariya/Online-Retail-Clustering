@@ -62,7 +62,7 @@ Histograms and boxplots for Monetary Value, Frequency, and Recency.
 3D scatter plots to visualize customer behavior in relation to the three features.
 Violin plots for visualizing the distribution of features by cluster.
 Insights and Actions
-Based on the clustering results, we have identified several segments with specific strategies for engagement:
+Based on the clustering results, the project have identified several segments with specific strategies for engagement:
 
 Cluster 0 (Blue): "Retain"
 
@@ -84,7 +84,7 @@ Cluster -3 (Delight): Top-tier customers with both high frequency and high spend
 By applying KMeans clustering to customer behavior data, this project enables businesses to segment their customers effectively, identify high-value customers, and tailor their marketing efforts accordingly. The actionable insights derived from clustering help in improving customer retention, re-engagement, and overall satisfaction.
 
 Important Insights
-From the K-Means clustering, we derived several insights and actionable strategies for each customer segment. The segmentation is divided into main clusters and outlier clusters based on customer behavior:
+From the K-Means clustering, the project derived several insights and actionable strategies for each customer segment. The segmentation is divided into main clusters and outlier clusters based on customer behavior:
 
 Main Clusters:
 Cluster 0 (Blue): "Retain"
