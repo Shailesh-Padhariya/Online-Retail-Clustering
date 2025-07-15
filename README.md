@@ -3,8 +3,7 @@ Overview:
 This project uses KMeans clustering to perform customer segmentation based on purchasing behavior. By analyzing Monetary Value, Frequency, and Recency (RFM metrics) of transactions, customers are grouped into segments to understand different behaviors and characteristics. The goal is to provide actionable insights that businesses can use to tailor their marketing, customer service, and retention strategies.
 
 The dataset used in this project contains transaction records from an online retail store, which includes information on customer ID, transaction details (quantity, price, and total value), invoice dates, and more.
-dataset link : https://docs.google.com/spreadsheets/d/1LsWDXkF4uHNNtqCHdPVj9Bm3Vqozy3Wi/edit?usp=drive_link&ouid=106909808790301394460&rtpof=true&sd=true
-
+dataset link : https://drive.google.com/drive/folders/1obcJlHR-yAljFORa9PotORjKvn7EgGRn?usp=sharing
 2. Required Libraries:
 The project requires the following Python libraries:
 
